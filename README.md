@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @steindlj
-- 👀 I’m interested in frontend and blockchain development (including trading cryptos).
+- 👀 I’m interested in frontend and blockchain development/cryptocurrencies.
 - 🌱 I’m currently learning.
 
 <!---
