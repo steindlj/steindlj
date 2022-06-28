@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @steindlj
-- 🌱 I’m currently learning.
+- 👋 Hi, I’m @steindlj.
+- 📚 I’m currently learning.
 
 <!---
 steindlj/steindlj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
