@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @steindlj.
 - 📚 I’m currently learning.
-- 🤖 Interested in Machine Learning, Computer Vision and of course Software Engineering.
+- 🤖 Interested in Machine Learning, Quantum Computing and of course Software Engineering.
 
 <!---
 steindlj/steindlj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
